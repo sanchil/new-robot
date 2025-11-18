@@ -1,0 +1,72 @@
+Experts/
+Include/
+Indicators/
+Libraries/
+Scripts/
+Logs/
+**/*.log
+# Compiled MQL4 files
+**/*.ex4
+
+
+!**/Sandeep/
+!**/Sandeep/**
+
+# ignore .csv files
+
+NEWDATA.csv
+NEWDATA.json
+NEWDATA_v1.json
+*.json
+
+# ignore swap files
+*.kate-swp
+
+# MetaTrader 4 temporary and log files
+*.log
+*.hst
+#*.set
+*.fxt
+*.tks
+*.ord
+**/*.fxt
+**/*.hst
+
+# MetaEditor temporary files
+*.bak
+*.srl
+*.tmp
+Remote/
+
+# User-specific settings and environment files
+*.ini
+*.dat
+config/
+history/
+logs/
+tester/
+templates/
+
+# Project-specific build outputs
+*.exp
+*.lib
+
+# Common IDE and OS files
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.code-workspace
+
+# ignore temp files
+_tmp_*
+_temp_*
+*.tmp
+*.temp
+*.swp
+
+# Dependency directories (if using external tools)
+node_modules/
+vendor/
+
+
