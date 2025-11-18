@@ -1,16 +1,8 @@
-Experts/
-Include/
-Indicators/
-Libraries/
-Scripts/
 Logs/
 **/*.log
 # Compiled MQL4 files
 **/*.ex4
 
-
-!**/Sandeep/
-!**/Sandeep/**
 
 # ignore .csv files
 
