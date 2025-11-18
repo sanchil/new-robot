@@ -12,7 +12,7 @@
 
 //#include "sanlib1.mq4"
 //#include <Sandeep/SanStrategies.mqh>
-// A new project new robot
+
 input ulong magicNumber = 1001; // MagicNumber
 input int noOfCandles = 21;
 input const double TAKE_PROFIT = 1.4; // TakeProfit
